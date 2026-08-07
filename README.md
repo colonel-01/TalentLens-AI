@@ -8,7 +8,10 @@
 AI-powered resume parsing and candidate matching system using LLMs.
 </p>
 
-
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![LLM](https://img.shields.io/badge/LLM-Groq-orange)
+![Framework](https://img.shields.io/badge/Framework-Pydantic-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 TalentLens-AI
 
 An AI-powered resume parsing and candidate evaluation system that extracts structured information from resumes and matches candidate profiles with job requirements.
