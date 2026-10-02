@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TalentLens-AI (V2)
 
 **TalentLens-AI** is a hybrid AI-powered resume screening and job description matching system. It combines deterministic rule-based matching with semantic text embeddings and explainable LLM insights to evaluate candidate fit without letting the LLM arbitrarily invent match scores.
@@ -181,3 +182,4 @@ uv run python -m src.pipeline data/res.pdf
 ```bash
 uv run python -m tests.test_pipeline
 ```
+
